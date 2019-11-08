@@ -1,24 +1,27 @@
-# uploadpic
+# 彼岸天图传工具
 
-## Project setup
-```
-npm install
+## 项目介绍
+
+> 免费在线的图片上传工具
+
+该项目基于vue+Element构建，后台图片上传采用七牛云存储，该项目进行中....
+
+----------
+
+
+### 产品依赖于:
+
+
+## 项目运行
+
+    
+
+## 项目目录结构
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+```		
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 项目部分截图
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  
