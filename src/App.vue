@@ -65,6 +65,7 @@
 	    margin: 0 auto;
 	    height: auto;
 		padding: 0 2rem;
+		margin-bottom: 3.75rem;
 	}
 	.el-footer{
 		width: 100%;
